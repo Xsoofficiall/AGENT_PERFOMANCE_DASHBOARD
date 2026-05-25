@@ -38,7 +38,7 @@ clearance rate.
 
 ---
 ## Dashboard Preview
-![Agent Perfomance dashboard](IT_Support_Agent_Perfomance_dashboard)
+![Agent Perfomance dashboard](IT_Support_Agent_Perfomance_dashboard.png)
 
 ---
 ## Key Insights
